@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate GitHub profile SVGs using only the Python standard library."""
+"""Generate GitHub profile SVGs using only the Python standard library.\n\nThis file is intentionally dependency-free for reliable scheduled refreshes.\n"""
 from __future__ import annotations
 import html, json, os, urllib.error, urllib.request
 from collections import Counter
