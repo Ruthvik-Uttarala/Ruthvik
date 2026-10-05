@@ -108,3 +108,6 @@ AI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAG · agents · Gemini
 ### contact
 
 If you're building a product where **software engineering, AI, and cloud systems** meet, email me at **ruthvikuttarala@gmail.com**.
+
+
+<!-- profile-refresh -->
