@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Ruthvik Uttarala — software engineer, full stack, AI systems, cloud">
+<title>Ruthvik Uttarala — Software Engineer</title>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f0d"/><stop offset="1" stop-color="#111913"/></linearGradient><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="898" height="298" rx="20" fill="url(#panel)" stroke="#26322a"/>
+<circle cx="31" cy="27" r="5" fill="#ff6b6b"/><circle cx="49" cy="27" r="5" fill="#ffd166"/><circle cx="67" cy="27" r="5" fill="#b8ff3d"/>
+<text x="84" y="32" fill="#738076" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/profile</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#b8ff3d" opacity=".95">
+<text x="42" y="74" opacity="0">          .-''''-.<set attributeName="opacity" to="1" begin=".10s" fill="freeze"/></text>
+<text x="42" y="92" opacity="0">        .'  _  _  '.<set attributeName="opacity" to="1" begin=".20s" fill="freeze"/></text>
+<text x="42" y="110" opacity="0">       /   (o)(o)   \<set attributeName="opacity" to="1" begin=".30s" fill="freeze"/></text>
+<text x="42" y="128" opacity="0">      |      __      |<set attributeName="opacity" to="1" begin=".40s" fill="freeze"/></text>
+<text x="42" y="146" opacity="0">      |    .'__'.    |<set attributeName="opacity" to="1" begin=".50s" fill="freeze"/></text>
+<text x="42" y="164" opacity="0">       \  '.__.'  /<set attributeName="opacity" to="1" begin=".60s" fill="freeze"/></text>
+<text x="42" y="182" opacity="0">        '._    _.'<set attributeName="opacity" to="1" begin=".70s" fill="freeze"/></text>
+<text x="42" y="200" opacity="0">       ___|  |___<set attributeName="opacity" to="1" begin=".80s" fill="freeze"/></text>
+<text x="42" y="218" opacity="0">     _/          \_<set attributeName="opacity" to="1" begin=".90s" fill="freeze"/></text>
+</g>
+<line x1="300" y1="62" x2="300" y2="238" stroke="#26322a"/>
+<text x="340" y="92" fill="#f2f7f3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="700">Ruthvik Uttarala</text>
+<text x="340" y="122" fill="#8b9b90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">software engineer · full stack · AI systems · cloud</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+<text x="340" y="162" fill="#57e6ff" opacity="0">&gt; build reliable systems<set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/></text>
+<text x="340" y="190" fill="#b8ff3d" opacity="0">&gt; turn prototypes into production<set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/></text>
+<text x="340" y="218" fill="#f2f7f3" opacity="0">&gt; automate the boring parts<set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/></text>
+<rect x="579" y="206" width="8" height="15" fill="#b8ff3d" filter="url(#glow)"><animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite" begin="1.8s"/></rect>
+</g>
+<line x1="42" y1="254" x2="858" y2="254" stroke="#26322a"/>
+<text x="42" y="279" fill="#8b9b90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Python  ·  TypeScript  ·  Next.js  ·  FastAPI  ·  PostgreSQL  ·  AWS  ·  Kafka  ·  Docker</text>
+</svg>
